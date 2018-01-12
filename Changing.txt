@@ -1,7 +1,7 @@
 1) Thursday 3:00 PM - Cloudy - 45 Degree - Percipitation: 0% - Humidity:56% - Wind: 5mph
 2) Thursday 5:33 PM - Mostly Cloudy - 42 Degree - Percipitation: 1% - Humidity: 54% - Wind:8 mph 
 3) Thursday 6:50 PM - Mostly Cloudy - 42 Degree - Percipitation: 1% - Humidity: 53% - Wind:8 mph 
-4)
+4) Thursday 7:08 PM - Cloudy - 42 Degree - Percipitation: 1% - Humidity: 53% - Wind: 6 mph
 5)
 6)
 7)
