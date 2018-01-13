@@ -12,19 +12,19 @@
 12) Thursday 8:36 PM - Mostly Cloudy - 42 Degree - Percipitation: 0% - Humidity: 52% - Wind: 7 mph 
 13) Thursday 8:52 PM - Mostly Cloudy - 42 Degree - Percipitation: 0% - Humidity: 53% - Wind: 8 mph
 14) Thursday 8:55 PM - Mostly Cloudy - 42 Degree - Percipitation: 0% - Humidity: 53% - Wind: 8 mph 
-15) Thursday 9:15 PM - Mostly Cloudy - 41 Degree - Percipitation: 0% - Humidity: 59% - WInd: 4 mph
-16) Thursday 9:26 PM - Mostly Cloudy - 41 Degree - Percipitation: 0% - Humidity: 59% - Wind: 4 mph
-17) Thursday 9:30 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 60% - WInd: 5 mph
-18) Thursday 9:37 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 60% - WInd: 5 mph
-19) Thursday 9:43 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 62% - Wind: 5 mph
-20) Thursday 9:51 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 62% - WInd: 5 mph
-21) Thursday 9:56 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 62% - Wind: 5 mph
-22) Thursday 10:00 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 61% - Wind: 5 mph
-23) Thursday 10:05 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 61% - Wind: 5 mph
-24) Thursday 10:10 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 61% - WInd: 5 mph
-25) Thursday 10:15 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 66% - Wind: 7 mph
-26) Thursday 10:18 PM - Mostly Cloudy - 40 Degree - Percipitation: 0% - Humidity: 66% - Wind: 7 mph
-27) Thursday 10:27 PM - Mostly Cloudy - 39 Degree - Percipitation: 2% - Humidity: 68% - Wind: 7 mph
-28) Thursday 10:36 PM - Mostly Cloudy - 39 Degree - Percipitation: 2% - Humidity: 68% - Wind: 7 mph
-29) Thursday 10:53 PM - Mostly Cloudy - 39 Degree - Percipitation: 2% - Humidity: 70% - Wind: 8 mph
-30) Thursday 10:55 PM - Mostly Cloudy - 39 Degree - Percipitation: 2% - Humidity: 70% - Wind: 8 mph
+15) Thursday 
+16) 
+17)
+18)
+19)
+20)
+21)
+22)
+23)
+24)
+25)
+26)
+27)
+28)
+29)
+30) 
