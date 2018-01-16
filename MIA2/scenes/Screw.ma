@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Screw.ma
-//Last modified: Tue, Jan 16, 2018 04:44:54 PM
+//Last modified: Tue, Jan 16, 2018 04:50:01 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "619E767A-489A-E6D0-B2E3-B794B741D2E5";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -16.455731191234626 16.555052962076587 -57.353090465433382 ;
+	setAttr ".t" -type "double3" -9.4875918643903709 22.509876379660728 -30.130954447974009 ;
 	setAttr ".r" -type "double3" -5.1383527241419555 1633.3999999995253 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D93D9ED3-4491-56D5-A7F4-26817C058C8C";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 51.369733048139196;
+	setAttr ".coi" 23.920071964459606;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
