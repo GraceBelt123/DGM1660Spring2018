@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Airplane_BeltGrace.ma
-//Last modified: Thu, Jan 18, 2018 05:03:32 PM
+//Last modified: Thu, Jan 18, 2018 05:04:19 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "B599ED53-43B6-244F-D5A8-CBA447593379";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -0.93621989177691578 1.62464499200565 10.327539386024743 ;
-	setAttr ".r" -type "double3" -8.1383527689154782 -1813.0000000000161 0 ;
+	setAttr ".t" -type "double3" 0.96147845009486965 -0.32157187058015824 10.756539178525959 ;
+	setAttr ".r" -type "double3" 0.2616472310817598 -1804.5999999999842 -4.6740713987545389e-018 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "44565631-453A-CF22-704D-C8B71B8B2E49";
 	setAttr -k off ".v" no;
