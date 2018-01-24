@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Boat2_BeltGrace.ma
-//Last modified: Wed, Jan 24, 2018 04:51:23 PM
+//Last modified: Wed, Jan 24, 2018 04:52:26 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "D8DC8608-B148-EA26-E7E6-08BE93102627";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 51.229625649615137 16.235476789852211 -24.431623563988058 ;
-	setAttr ".r" -type "double3" -13.538353329069601 -5652.5999999999076 0 ;
+	setAttr ".t" -type "double3" 5.3793049877368757 27.033951904210106 40.704273898485972 ;
+	setAttr ".r" -type "double3" -25.538353329322362 -5394.2000000014596 1.998075405693333e-016 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D27D16B9-DC49-336F-2815-6DB59A819B19";
 	setAttr -k off ".v" no;
