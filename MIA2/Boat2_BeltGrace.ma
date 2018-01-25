@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Boat2_BeltGrace.ma
-//Last modified: Wed, Jan 24, 2018 07:55:24 PM
+//Last modified: Wed, Jan 24, 2018 08:06:07 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,17 +13,19 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "D8DC8608-B148-EA26-E7E6-08BE93102627";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 44.674944279998677 22.515995037710105 -45.37480187060374 ;
+	setAttr ".t" -type "double3" 22.775495289105002 16.757063652641968 -28.387847995343563 ;
 	setAttr ".r" -type "double3" -11.738354627943311 -5632.2000000167473 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D27D16B9-DC49-336F-2815-6DB59A819B19";
 	setAttr -k off ".v" no;
+	setAttr ".ovr" 1.3;
 	setAttr ".fl" 34.999999999999986;
-	setAttr ".coi" 57.957303449885423;
+	setAttr ".coi" 29.649923515266057;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
 	setAttr ".hc" -type "string" "viewSet -p %camera";
+	setAttr ".dr" yes;
 	setAttr ".ai_translator" -type "string" "perspective";
 createNode transform -s -n "top";
 	rename -uid "81EA6EF3-E941-CCD1-0A62-1AADEBE1D940";
